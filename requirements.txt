@@ -1,0 +1,4 @@
+gradio
+google-genai
+Pillow
+deepgram-sdk
