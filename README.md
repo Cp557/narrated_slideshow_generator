@@ -19,6 +19,7 @@ thumbnail: >-
 
 AI-powered tool that converts any topic into a narrated slideshow with generated images and audio.
 
+![Agent Architecture](agent_architecture.png)
 ## Install dependencies:
 pip install gradio google-genai python-dotenv pillow deepgram-sdk
 
